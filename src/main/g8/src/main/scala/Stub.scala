@@ -3,6 +3,7 @@ import java.io.PrintWriter
 import scala.annotation._
 import scala.collection.mutable
 import scala.util.Random
+import scala.util.matching.Regex
 
 class Testcase(sc: Scanner) {
   // do something
