@@ -1,0 +1,11 @@
+.ensime
+.ensime_lucene
+*.in
+*.out
+sample
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+project/project/target/
