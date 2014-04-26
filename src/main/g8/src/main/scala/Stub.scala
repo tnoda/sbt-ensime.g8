@@ -5,10 +5,6 @@ import scala.collection.mutable
 import scala.util.Random
 import scala.util.matching.Regex
 
-class Testcase(sc: Scanner) {
-  // do something
-}
-
 object Stub extends App {
   val sc = new Scanner(System.in)
   val out = new PrintWriter(System.out)
