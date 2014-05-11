@@ -1,7 +1,11 @@
 import java.util.Scanner
 import java.io.PrintWriter
+import java.lang.Long.bitCount
+import java.nio.CharBuffer
 import java.util.Arrays.binarySearch
 import scala.annotation.tailrec
+import scala.annotation.switch
+import scala.annotation.unchecked
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
 import scala.collection.mutable.ArrayBuffer
@@ -15,5 +19,5 @@ object Stub extends App {
 
   // do something
 
-  out.close
+  out.flush
 }
