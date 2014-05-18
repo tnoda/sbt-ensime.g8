@@ -56,6 +56,8 @@ object Stub extends App {
     val nextString: () => String = next _
   }
 
+  import Input._
+
   // do something
 
   out.flush
