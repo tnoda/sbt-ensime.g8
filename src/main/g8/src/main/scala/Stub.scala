@@ -12,6 +12,7 @@ import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
 import scala.collection.mutable.ArrayBuffer
 import scala.collection.mutable.PriorityQueue
+import scala.math.Ordering.Implicits._
 import scala.util.Random
 import scala.util.control.Breaks._
 
